@@ -1,0 +1,16 @@
+/* GENERAL */
+h1{margin 20% 0;}
+.margin-right{margin-right:10%;}
+
+/* NAV */
+.navbar-collapse {display: flex;justify-content: space-around;}
+
+/* PRODUITS */
+.title{margin: 30px 0; display: flex; justify-content: center; width: 100%;}
+#products{margin: 10% 0; display: flex; justify-content: center;}
+.card{border-radius:0; border:none; padding:0;}
+.price span {font-size:25px;}
+h5.card-title{margin:0; align-self: center;}
+.panier{margin-top:10%;}
+/* FOOTER */
+footer {background:#f4f3f3; height: 10%;}
